@@ -3,7 +3,7 @@
 scrapy crawl cnblog
 ```
 
-#### taptap手游网热门、热卖、热玩榜
+#### 获取taptap手游网数据
 ```
 python taptap.py
 ```
